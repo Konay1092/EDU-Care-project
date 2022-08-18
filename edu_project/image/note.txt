@@ -1,0 +1,26 @@
+////////////////////////Bg color /////////////////////////////
+Merlin
+#413F3C
+
+Dawn Pink
+#F4EBE6
+
+Hit Gray
+#A2ACB4
+
+Moody Blue
+#7E7BCF
+
+
+/////////////////////////////Logo color////////////////////////////////////////////
+Pickled Bluewood - nav
+#28334B
+
+Sea Buckthorn -yellow
+#F59723
+
+Eastern Blue
+#1F7BBB
+
+Lynch
+#6C7C94
